@@ -1,0 +1,20 @@
+.editor-container {
+    width: 100%;
+    height: 70vh;
+}
+
+.markdown-preview {
+width: 100%;
+height: 70vh;
+padding: 10px;
+border: 1px solid #ddd;
+overflow-y: auto;
+font-family: Arial, sans-serif;
+}
+
+.button-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}

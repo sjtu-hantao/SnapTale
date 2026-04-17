@@ -1,0 +1,38 @@
+# 忽略 node_modules 目录，因为这些文件将在构建过程中重新安装
+node_modules
+.pnp
+.pnp.js
+.pnpm-store
+
+# 忽略日志文件
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# 忽略环境变量文件（如果它们包含敏感信息）
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 忽略本地配置文件
+.DS_Store
+*.local
+.vscode
+.idea
+.git
+
+# 忽略操作系统文件
+Thumbs.db
+*.swp
+
+# 忽略构建输出目录（如果你有的话）
+build
+dist
+coverage
+
+# 忽略 Dockerfile 自身
+Dockerfile
+docker-compose.yml

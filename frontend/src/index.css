@@ -1,0 +1,28 @@
+:root {
+  color: #2d2418;
+  background: #f7f0e5;
+  font-family: "Aptos", "Segoe UI Variable", "Trebuchet MS", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  color: #2d2418;
+  background: #f7f0e5;
+  font-family: "Aptos", "Segoe UI Variable", "Trebuchet MS", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}

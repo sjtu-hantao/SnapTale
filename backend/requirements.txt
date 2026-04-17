@@ -1,0 +1,14 @@
+oss2
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+mysql-connector-python
+python-dotenv
+python-jose
+passlib
+alembic
+dashscope
+python-multipart
+oss2
+pillow
